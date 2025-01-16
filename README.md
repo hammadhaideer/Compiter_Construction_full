@@ -1,1 +1,1 @@
-# Compiter_Construction_full
+# Compiter_Constructions all labs
